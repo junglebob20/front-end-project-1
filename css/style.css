@@ -181,6 +181,7 @@
 .menu-wrapper .container-fluid .list-group .list-group-item {
   border: 0;
   padding: 0 15px;
+  border-radius: 0;
 }
 
 .menu-wrapper .container-fluid .list-group .list-group-item:active {
